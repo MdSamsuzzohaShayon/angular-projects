@@ -2,6 +2,7 @@
 
  - [tutorials](https://www.youtube.com/watch?v=3dHNOWTI7H8)
  - `ng generate <schematic>` [Generates and/or modifies files based on a schematic.](https://angular.io/cli/generate)
+ - `ng add @fortawesome/angular-fontawesome` [Angular fontawesome](https://github.com/FortAwesome/angular-fontawesome)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
